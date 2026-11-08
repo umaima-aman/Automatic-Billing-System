@@ -23,21 +23,21 @@ A YOLO object detection model is trained using the custom-labelled stationery da
 
 ### Image-Based Billing
 
-Load a purchase image.
-Detect stationery items using the trained YOLO model.
-Identify and count each detected category.
-Assign predefined prices to detected items.
-Calculate individual subtotals and the final bill.
-Display the formatted bill.
+1. Load a purchase image.
+2. Detect stationery items using the trained YOLO model.
+3. Identify and count each detected category.
+4. Assign predefined prices to detected items.
+5. Calculate individual subtotals and the final bill.
+6. Display the formatted bill.
 <img width="1366" height="728" alt="output1" src="https://github.com/user-attachments/assets/e66b5658-6fa8-4201-9fdc-85816d266506" />
 
 <img width="1366" height="728" alt="output2" src="https://github.com/user-attachments/assets/c5729f3e-fa15-4ba2-9f44-33778ee0201c" />
 
 ### Video-Based Billing
 
-Load a purchase video.
-Process individual video frames.
-Detect stationery items in each frame.
-Annotate billing information on the video.
-Generate an annotated output video.
+1. Load a purchase video.
+2. Process individual video frames.
+3. Detect stationery items in each frame.
+4. Annotate billing information on the video.
+5. Generate an annotated output video.
 
